@@ -3290,19 +3290,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dodger451/laravelcodechecker.git",
-                "reference": "79571af49d79cee33c5ceb263bd6cbd686c2c9d3"
+                "reference": "96c330b805a506732abdb7cd387ef19fde4153db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dodger451/laravelcodechecker/zipball/79571af49d79cee33c5ceb263bd6cbd686c2c9d3",
-                "reference": "79571af49d79cee33c5ceb263bd6cbd686c2c9d3",
+                "url": "https://api.github.com/repos/dodger451/laravelcodechecker/zipball/96c330b805a506732abdb7cd387ef19fde4153db",
+                "reference": "96c330b805a506732abdb7cd387ef19fde4153db",
                 "shasum": ""
             },
             "require": {
                 "illuminate/support": "~5",
                 "phpmd/phpmd": "^2.6",
-                "squizlabs/php_codesniffer": "^3.2",
-                "symfony/process": "^4.1"
+                "squizlabs/php_codesniffer": "3.3.2",
+                "symfony/process": "^4.0"
             },
             "require-dev": {
                 "mockery/mockery": "^1.1",
@@ -3348,7 +3348,7 @@
                 "source": "https://github.com/dodger451/laravelcodechecker/tree/master",
                 "issues": "https://github.com/dodger451/laravelcodechecker/issues"
             },
-            "time": "2018-12-08T01:02:40+00:00"
+            "time": "2018-12-17T22:06:50+00:00"
         },
         {
             "name": "filp/whoops",
